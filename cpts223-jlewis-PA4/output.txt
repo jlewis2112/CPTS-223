@@ -1,0 +1,79 @@
+ERROR! ID is already being used.
+ERROR! Location is already occupied.
+Removed player 7 from the board.
+
+
+Player List:
+Player 1 is located at (3, 2) (x, y).
+Player 2 is located at (4, 3) (x, y).
+Player 3 is located at (4, 6) (x, y).
+Player 4 is located at (9, 3) (x, y).
+Player 5 is located at (6, 3) (x, y).
+Player 6 is located at (8, 2) (x, y).
+Player 8 is located at (9, 8) (x, y).
+Removed player 8 from the board.
+
+
+Player List:
+Player 1 is located at (3, 2) (x, y).
+Player 2 is located at (4, 3) (x, y).
+Player 3 is located at (4, 6) (x, y).
+Player 4 is located at (9, 8) (x, y).
+Player 5 is located at (6, 3) (x, y).
+Player 6 is located at (8, 2) (x, y).
+Removed player 5 from the board.
+
+
+Player List:
+Player 1 is located at (3, 2) (x, y).
+Player 2 is located at (4, 3) (x, y).
+Player 3 is located at (4, 6) (x, y).
+Player 4 is located at (6, 3) (x, y).
+Player 6 is located at (8, 2) (x, y).
+
+
+Player List:
+Player 1 is located at (3, 2) (x, y).
+Player 2 is located at (3, 3) (x, y).
+Player 3 is located at (4, 6) (x, y).
+Player 4 is located at (6, 3) (x, y).
+Player 6 is located at (8, 2) (x, y).
+Removed player 1 from the board.
+
+
+Player List:
+Player 2 is located at (3, 3) (x, y).
+Player 3 is located at (4, 6) (x, y).
+Player 4 is located at (3, 2) (x, y).
+Player 6 is located at (8, 2) (x, y).
+Removed player 6 from the board.
+
+
+Player List:
+Player 2 is located at (3, 3) (x, y).
+Player 3 is located at (4, 6) (x, y).
+Player 4 is located at (8, 2) (x, y).
+ERROR! ID does not exist on board.
+
+
+Player List:
+Player 2 is located at (3, 3) (x, y).
+Player 3 is located at (4, 6) (x, y).
+Player 4 is located at (8, 2) (x, y).
+Removed player 3 from the board.
+
+
+Player List:
+Player 2 is located at (3, 3) (x, y).
+Player 4 is located at (4, 6) (x, y).
+ERROR! ID does not exist on board.
+
+
+Player List:
+Player 2 is located at (3, 3) (x, y).
+Player 4 is located at (4, 6) (x, y).
+
+
+Player List:
+Player 2 is located at (3, 3) (x, y).
+Player 4 is located at (4, 3) (x, y).
